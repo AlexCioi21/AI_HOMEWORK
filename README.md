@@ -1,0 +1,1 @@
+This is a project realized using CLion IDE from jetbrains. It is a simple C++ project, all that must be done is to pull the repo and build and run the main.cpp file. In the console the results will be shown.
